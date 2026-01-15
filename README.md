@@ -43,6 +43,8 @@ Installation
 Clone the repository:
 
 GitHub Cli: gh repo clone mohamedhesham125/Makank_Mahgooz
+
+
 Clone From Android Studio: https://github.com/mohamedhesham125/trendify.git
 
 Open the project in Android Studio.
